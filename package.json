@@ -4,7 +4,7 @@
   "description": "",
   "homepage": "https://KaterynaChaplynska.github.io/goit-js-hw-11",
   "scripts": {
-    "start": "parcel src/*.html --port 3000 --open",
+    "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
   },
   "repository": {
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
-    "notiflix": "^3.2.5",
+    "notiflix": "^3.2.6",
     "only-scrollbar": "^0.3.4"
   },
   "devDependencies": {
